@@ -1,0 +1,10 @@
+
+bin/
+
+obj/
+
+Properties/
+
+App\.config
+
+WhatsAppDesktopDelete\.csproj
